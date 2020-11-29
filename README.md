@@ -15,7 +15,6 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 [[Back to top]](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient#index)
 
 ##### Introduction
-Face Recognition is a process of face detection and then classifying the faces into different classes. The methods used in this case are based on the application of Viola-Jones, for detecting the face using cascade classifier, and Eigen Faces algorithm, for face classification and it is based on the PCA algorithm. PCA is known as Principal component analysis which in other words is feature reduction or dimensionality reduction algorithm.
 
 ##### Basic Working Flow of the Proxy Server:
 ![](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient/blob/main/pics/UML.JPG)
